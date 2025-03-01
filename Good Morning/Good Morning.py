@@ -16,4 +16,3 @@ elif(timestamp >= 16 and timestamp <= 20):
     print("Good Evening")
 else: #(timestamp >= 20 and timestamp <= 24)
     print("Good Night")
-    

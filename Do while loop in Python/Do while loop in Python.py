@@ -7,6 +7,6 @@ count = 0
 while True:
     print("Count is:", count)
     count = count + 1
-    
+
     if not (count < 5):
         break
